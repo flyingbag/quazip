@@ -16,9 +16,11 @@ Also, it depends on Qt 4.
 
 To compile it on UNIX dialect:
 
-$ cd quazip
-$ qmake
-$ make
+```
+> cd quazip
+> qmake
+> make
+```
 
 You must make sure that:
 * You have Qt 4 properly and fully installed (including tools and
