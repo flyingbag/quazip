@@ -1,7 +1,7 @@
 quazip
 ======
 
-This repository is just a clone of the main QuaZIP repository which is based on SVN.
+This repository is just a clone of the [main QuaZIP repository which is based on SVN](http://sourceforge.net/p/quazip/code/HEAD/tree/trunk/).
 
 [Read Me](http://sourceforge.net/p/quazip/code/HEAD/tree/trunk/quazip/#)
 ========================================================================
